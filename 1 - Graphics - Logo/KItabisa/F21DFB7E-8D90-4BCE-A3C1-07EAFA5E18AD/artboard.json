@@ -52,15 +52,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "group",
       "id": "8B64A80B-AFEF-4B72-9BAF-B596C4FB395D"
-    },
-    {
-      "class": "group",
-      "id": "2AFDE819-C648-4A2E-A536-B722FEF562B3"
     }
   ],
   "name": "1 - logo_ktbs-white",
