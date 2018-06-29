@@ -3,9 +3,8 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 0,
-    "do_objectID": "A0F29743-2790-4350-ACF0-2D338926599F",
-    "green": 0,
+    "blue": 0.9372549019607843,
+    "green": 0.6862745098039218,
     "red": 0
   },
   "do_objectID": "F21DFB7E-8D90-4BCE-A3C1-07EAFA5E18AD",
@@ -38,7 +37,7 @@
     "y": 50
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,11 +52,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "group",
       "id": "8B64A80B-AFEF-4B72-9BAF-B596C4FB395D"
+    },
+    {
+      "class": "group",
+      "id": "2AFDE819-C648-4A2E-A536-B722FEF562B3"
     }
   ],
   "name": "1 - logo_ktbs-white",
