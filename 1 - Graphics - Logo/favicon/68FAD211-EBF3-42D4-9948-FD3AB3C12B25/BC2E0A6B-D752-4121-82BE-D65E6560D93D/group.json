@@ -1,0 +1,74 @@
+{
+  "_class": "group",
+  "do_objectID": "BC2E0A6B-D752-4121-82BE-D65E6560D93D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "35F37FE5-FCB7-447A-BDDA-8B3FE2047F89",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14BAC99F-99DC-4ACA-ABCB-381B92977434",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "CCE0A9E6-771B-482A-9C11-082E5EA5FBC8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "229AB543-3A84-45F1-8241-49952E1A7CC5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F81DA3C-87C4-4AEF-8D79-87CBA6D60E24"
+    }
+  ],
+  "name": "favicon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "ED3001AC-D620-450D-BB21-76B1C66C1A2C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 6.5,
+      "type": 0
+    },
+    "do_objectID": "C7336CB4-22C6-4C34-A92B-BEE15AE4A911",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

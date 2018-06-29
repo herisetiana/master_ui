@@ -1,0 +1,88 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "9FDC5535-8439-48CE-825E-895020B368FF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6DD2EADA-4DEC-4BBD-A87C-CF2909688083",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "40C50C59-F35B-4B9B-98F3-D861FA70AE91",
+    "height": 47,
+    "width": 94,
+    "x": 690,
+    "y": 58
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/cd5c6b855af613faa5eb7b72536bb5d8e73961ef.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "logo-act",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "74E36695-FFF7-4ACE-BF43-7AF5598FC3B9",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.568,
+      "type": 0
+    },
+    "do_objectID": "AF551461-5F8F-45DD-B8FF-B06B8DAEA641",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 300,
+            "enabled": 1,
+            "modelID": "constraint_9b420e01-6b1b-489a-9335-3744533dff7b",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 600
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_fc46938a-046c-4603-80ff-c4fb8e2f06a4",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  }
+}

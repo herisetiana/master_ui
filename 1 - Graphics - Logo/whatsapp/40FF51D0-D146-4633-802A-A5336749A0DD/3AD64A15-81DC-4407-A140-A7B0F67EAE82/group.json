@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "3AD64A15-81DC-4407-A140-A7B0F67EAE82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C1935B08-5132-41F4-BB20-8B15FD85552C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6AEE77FE-F089-4D59-ABBA-DC17C83DB46C",
+    "height": 24.46128456453776,
+    "width": 24.46128456453776,
+    "x": 61.85774765330898,
+    "y": 57.85774765330893
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": false,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3C8434A8-5ED3-4C25-B4D9-A100826F4E52"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6C0305E5-4428-4990-BAFE-1160A77A8B92"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB90492B-D138-4F0D-9C48-9BC53CAF53E7"
+    }
+  ],
+  "name": "Whatssap logo",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "7BF408E0-D38A-43F7-AC79-4A722E4AE6F4",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.2,
+      "type": 0
+    },
+    "do_objectID": "D60ECEE3-6A3C-49DB-BB9E-32FDE72F8A0E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

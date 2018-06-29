@@ -1,0 +1,78 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "DDE84CBC-2789-4F11-922E-CC6AA82A8152",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DE023B63-331F-4A38-83C1-E7A499843AE6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "BDF721EA-F244-427F-BA26-DC7F601308B1",
+    "height": 20,
+    "width": 68,
+    "x": 66,
+    "y": 35
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/bc9495c179da35f69696e2752444e674bb549bd0.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "0277B1F1-4572-44F3-963C-627A0B4AC27A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.33,
+      "type": 0
+    },
+    "do_objectID": "14B0E032-7440-41DF-8BCF-40BC45B50E5B",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_af284392-3af2-4caa-9bb3-d245f7d89f74",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 51
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_389e9afc-0084-4c86-9107-f7b330505384",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

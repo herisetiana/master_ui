@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "do_objectID": "C4900B3A-59C7-4336-8780-D9B45DB54938",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "578504FB-8547-4273-A361-AE081EFD7909",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "46041882-B4D3-4B6F-B45E-378891AA0237",
+    "height": 39,
+    "width": 186,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "99C0D0B3-5791-463E-8172-6150D34D7776"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "655E8BE7-E357-4903-8E72-18D65C5B0FB6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F1BB9ABB-0574-44B3-91AD-AF5104D0155E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "BA973291-C245-4153-A4E8-BAA1E6C1E19D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1E1F97DD-4A07-4169-BFDD-64BCAE8106B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11079B1E-7EFA-4EC4-AFBD-A50C470144F6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DBBECD67-7E29-4A76-820A-8E32E42A0E14"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6BD2175A-45E3-426B-99E3-13F2AA8E0037"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "73237E2A-AF3A-48B4-B950-077117C5EF02"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D40E3CC-F8DA-42ED-BE39-01EE75E770A3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DA34A49-78F4-400F-8D0F-B56A0BCFEDC7"
+    },
+    {
+      "class": "group",
+      "id": "B6D12D40-3E91-4852-9469-FC679B76BAB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D18BA6F4-39EC-4C6F-BB60-B8B3178A801B"
+    }
+  ],
+  "name": "logo_ktbs-blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "6D5C6D21-F464-4BA2-BFB3-02A6005E116F",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 7.254000000000001,
+      "type": 0
+    },
+    "do_objectID": "4BE55D2C-6792-4476-957D-E5A348D28034",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

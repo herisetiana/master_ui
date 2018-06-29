@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "BDA54C92-1578-4AC0-BB09-8045651196DE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E87A4674-88DD-4015-B084-545C58C09970",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4D8AF979-EB62-43B4-A9EB-C8D37D0CDDEC",
+    "height": 25,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "25341C1B-4A19-4E68-A57C-C602F478088C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12F59587-A2BF-42C0-B694-7431C91D3DFC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8ACCFD56-97A2-4A4F-8CF2-41239B8A7196"
+    }
+  ],
+  "name": "Ktbs-White",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB89284A-512A-464D-9DB2-976E77CD8C72",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

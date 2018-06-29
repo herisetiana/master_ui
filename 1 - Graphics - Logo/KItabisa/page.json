@@ -1,0 +1,74 @@
+{
+  "_class": "page",
+  "do_objectID": "1A523528-6E59-4333-AA1A-5A8AC210533E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "F21DFB7E-8D90-4BCE-A3C1-07EAFA5E18AD"
+    },
+    {
+      "class": "artboard",
+      "id": "3C46F0D3-F722-4186-B977-E973D7487189"
+    },
+    {
+      "class": "artboard",
+      "id": "A3E0B62F-5D4D-47CC-87E7-87AB4507A5CD"
+    },
+    {
+      "class": "artboard",
+      "id": "8EA36DA9-CCCB-464D-8D2E-559A84A806A3"
+    },
+    {
+      "class": "artboard",
+      "id": "91199F14-3307-438A-9E06-06B77E66591E"
+    }
+  ],
+  "name": "KItabisa",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

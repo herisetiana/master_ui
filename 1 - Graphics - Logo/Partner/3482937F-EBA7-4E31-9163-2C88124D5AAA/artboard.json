@@ -1,0 +1,82 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3F16CAA0-A04E-4EB9-8E4C-78D896254D38",
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "3482937F-EBA7-4E31-9163-2C88124D5AAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA6BDCDC-1DCF-4765-BB08-FDF06866E7A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D63F52D8-BD2D-4DEB-B9B8-2A8FFBA4FD0E",
+    "height": 100,
+    "width": 200,
+    "x": 1311,
+    "y": -373
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "861E7BEB-83B1-45D4-948F-454AE82E93ED",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "bitmap",
+      "id": "8F7A6F50-1F3F-47D1-9ED6-5F8508AEB98D"
+    }
+  ],
+  "name": "2 - logo_partner - dompet dhuafa",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop",
+    "offersLandscapeVariant": 0,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B12CF2F-018E-4E33-BDAB-AF9CC74328A8",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B7E00330-C17C-4118-A544-4D7302A57272",
+    "guides": [
+    ]
+  }
+}

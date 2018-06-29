@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "C31D54AF-B746-485E-A854-E4B3609AC5E7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DF66EFD5-3297-442A-BFC1-B84363C0A624",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "3EBBEA9D-5C44-4B32-AFB2-E64C7C62046A",
+    "height": 25,
+    "width": 120,
+    "x": 259,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9BDC34E7-45AE-4B57-8707-F60B78B5E895"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9B80F764-885F-401E-9170-73DB3817D1E1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E45916CB-8E2A-427A-AB3C-9DC6173907CB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "62F8912C-EC62-47AB-9784-8274753942F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1EA0A25E-2AB9-41DC-92D4-0436EF9EE018"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CADE479C-3627-4142-84DA-5CC2763EDD6F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A647CD32-A6FC-45B8-AE44-885035413F36"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "825FC332-16C5-4811-97D1-45C75400479B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "12606B85-3596-4549-99E4-8D0770527BED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6297E37D-2D34-4734-AAF4-06A327CB6A0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C85B86DF-9F1E-4897-BCD8-08727EA52BBC"
+    },
+    {
+      "class": "group",
+      "id": "F9BAF0EB-F749-490D-9BE1-0BC56A51A303"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "116BAEC2-22DC-4727-A054-7BACAFC7C887"
+    }
+  ],
+  "name": "logo_ktbs-blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "D174200E-70C8-482E-B138-D5982568753E",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 4.680000000000001,
+      "type": 0
+    },
+    "do_objectID": "DAC90D4F-B4AA-453F-80F3-CE516CA34029",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "E2B77108-1773-4E80-8131-365478964720",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EC48B7F-EB8A-4B25-B7F7-BB9C5D4C6AD2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "AB0666C3-8418-4C3F-B771-9CBBB6C2D327",
+    "height": 25,
+    "width": 47,
+    "x": 77,
+    "y": 32
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/85b602e2c90036c0226b17ff7e690af4e123762a.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Logo-BNI-Syariah1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC19D7B8-D9F7-4E99-BEA7-F94DE2679FC5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

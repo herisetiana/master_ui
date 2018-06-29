@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "do_objectID": "B96E9BAC-DADE-4533-8F14-1E6C8A3CDBF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 75,
+    "width": 359,
+    "x": 139,
+    "y": 63
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "14A8AB2D-5DA7-4AA4-BD59-8147D93AB4D9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6FE2EB8-C504-4910-BAF8-5916139A81A6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D6A2D3BC-D2A2-441A-B34F-0CDB46C953EE"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE482377-34B7-42AB-9EA1-D32683F77BED"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FDA5AEA-8417-4BE1-8C32-20E996CF0D5E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9C5BCCAC-B203-4732-BF70-D42DD8D1185D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "164CEF51-67FA-49A2-9107-90D9E40A24B6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2C390766-B33F-490E-B129-B05049963269"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "048BBD49-DF21-4190-8367-597726EF3200"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "230E97BE-324A-4C51-8E4C-54312C9CDCA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4F931FE4-C894-4265-9E5C-F1FEB0258DF7"
+    },
+    {
+      "class": "group",
+      "id": "A2943FCF-FB84-4DE1-B218-6BE07282F96B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FEBE633B-5CD1-492E-9C16-8966DE269114"
+    }
+  ],
+  "name": "logo_ktbs-blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 14.04,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

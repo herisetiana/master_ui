@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "F9BAF0EB-F749-490D-9BE1-0BC56A51A303",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E24831F-5B58-4065-B446-5138AF33D7A9",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4C3B1808-7D61-42A8-BCF0-347377DA837A",
+    "height": 25,
+    "width": 25,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "83B7CC2D-EC63-4D0F-8D5A-9F12E65D0FB7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "750988F8-4DFC-4B47-B26A-5885EAD8E564"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB28A5E3-1DE8-4DC9-BDAC-9109341CD609"
+    }
+  ],
+  "name": "Ktbs-blue",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58C24607-62AE-45CC-95CD-FCDB57C5A98E",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

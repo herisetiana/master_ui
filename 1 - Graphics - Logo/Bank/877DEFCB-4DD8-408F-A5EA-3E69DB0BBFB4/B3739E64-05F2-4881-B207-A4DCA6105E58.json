@@ -1,0 +1,78 @@
+{
+  "_class": "bitmap",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "B3739E64-05F2-4881-B207-A4DCA6105E58",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9F14D0C6-165D-428E-BE69-FF5B9DFA674A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "802F2E8C-2BE0-4EBA-B83C-502EB2C63E98",
+    "height": 17,
+    "width": 75,
+    "x": 59,
+    "y": 36
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/79d184b4ae426cd205ec818eec4af3759bd63094.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bitmap",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "EEA8A1CE-2D9C-4367-B8FA-0CE970AD1F1A",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 0.243,
+      "type": 0
+    },
+    "do_objectID": "04194E3F-2D16-4A04-8A1F-E2DD129420E3",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 14,
+            "enabled": 1,
+            "modelID": "constraint_528210a8-5971-4f0f-8257-b6ab26c3ec61",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 62
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_5436545b-8ab5-44fb-b53f-2bff905f828a",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}
